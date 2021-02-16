@@ -2,7 +2,10 @@
 Derrick Mwiti's Bootcamp.
 
 
+
 Here are some of the items covered in this course:
+
+
 
 * The Data Science Process
 
@@ -32,7 +35,11 @@ Here are some of the items covered in this course:
 
 * Apache Spark for Handling Big Data
 
+
+
 For the machine learning section here are some items we'll cover :
+
+
 
 * How Algorithms Work
 
